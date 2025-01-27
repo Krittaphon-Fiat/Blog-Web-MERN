@@ -17,3 +17,4 @@ A blog website built with the MERN stack, offering a secure and user-friendly pl
 
 ---
 
+![Blog Website Banner](readmeImg/blogweb.png) 
